@@ -1,4 +1,4 @@
-## Classify whether the data is NER rich or not
+# Classify whether the data is NER rich or not
 
 
 The purpose of this project is to classify whether the given data is NER rich or not.
