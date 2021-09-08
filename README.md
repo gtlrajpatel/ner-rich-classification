@@ -5,7 +5,6 @@ The purpose of this project is to classify whether the given data is NER rich or
 
 If data has more than one noun phrases and verb phrases then it is NER Rich.
 
-***
 
 ## Installation Guidelines
 
