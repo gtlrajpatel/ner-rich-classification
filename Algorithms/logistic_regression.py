@@ -54,3 +54,7 @@ def logistic_regression_classifier():
 
     rscore = recall_score(original_output, predicted_output, average='binary')
     print("\n\n>> Recall Score: ", rscore*100)
+
+
+if __name__ == '__main__':
+    logistic_regression_classifier()
